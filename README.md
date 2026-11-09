@@ -50,16 +50,3 @@ Me chamo José Renato Bettuz Sampaio, tenho 21 anos e sou natural de São Paulo.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jbettuz211&rank_icon=percentile&custom_title=Estatat%C3%ADsticas&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=jbettuz211&rank_icon=percentile&custom_title=Estatat%C3%ADsticas&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=light_github)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jbettuz211&layout=compact&langs_count=4&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=jbettuz211&layout=compact&langs_count=4&theme=light_github)   
-
-### 📊 Tempo em cada linguagem (WakaTime)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
