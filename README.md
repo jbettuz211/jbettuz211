@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Junior`**
 
-Me chamo José Renato Bettuz Sampaio, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio, com o curso técnico em informática e hardware. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Tenho experiência com suporte de TI em escola estadual, meu instagram é o:"[@j.bettuz](https://www.instagram.com/j.bettuz/)".
+Me chamo José Renato Bettuz Sampaio, tenho 21 anos e sou natural de São Paulo. Concluí o ensino médio, com o curso técnico em informática e hardware. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Tenho experiência com suporte de TI em escola estadual, além de trabalho voluntário na justiça federal meu instagram é o:"[@j.bettuz](https://www.instagram.com/j.bettuz/)".
 
 <p align="left">
     </a>
